@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isa-x
-- 👀 I’m interested in l10n, big data and language, chat-bots, LQA
-- 🌱 I’m currently learning how to better understand language through data, and analysing features in spoken and written discourse
-- 💞️ I’m looking to collaborate on UX localisation, language data in Portuguese, international development
+- 👀 I’m interested in l10n, big data and language, chat-bots, LQA, dialogue design
+- 🌱 I’m currently learning how to better understand language through data, and analysing features in spoken and written speech
+- 💞️ Looking to collaborate in UX localisation, dialogue design, Portuguese language data, international development
 - 📫 How to reach me: info@compass.productions
 
 <!---
