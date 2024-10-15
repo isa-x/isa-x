@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @isa-x
 - 👀 I’m interested in l10n, big data and language, dialogue design, LQA
-- 🌱 I’ve just started a Piscine at 42
 - 💞️ Looking to collaborate in UI localisation, dialogue design, editorial, international development, conversational AI
 - 📫 How to reach me: info@compass.productions
 
